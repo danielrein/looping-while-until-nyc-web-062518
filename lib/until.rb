@@ -1,9 +1,9 @@
 
-def using_until(phrase = 'Wingardium Leviosa\n')
+def using_until(phrase = 'Wingardium Leviosa')
   string = ''
   levitation_force = 6
   until levitation_force == 10
-    string += phrase
+    string += phrase + '\n'
     levitation_force += 1
   end
   puts string
