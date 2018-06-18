@@ -4,10 +4,8 @@ def using_until(phrase = 'Wingardium Leviosa')
           puts phrase
           levitation_force += 1
           until levitation_force == 10
-            
           end
         end
         #your code here
-    
-end
 
+end
