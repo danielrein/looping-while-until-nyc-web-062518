@@ -7,5 +7,5 @@ def using_until
     string += phrase
 #     levitation_force += 1
 #   end
-  puts string
+  string
 end
