@@ -1,5 +1,5 @@
 #
-# def using_until
+def using_until
 #   phrase = 'Wingardium Leviosa\n'
 #   string = ''
 #   levitation_force = 6
@@ -8,4 +8,4 @@
 #     levitation_force += 1
 #   end
 #   puts string
-# end
+end
