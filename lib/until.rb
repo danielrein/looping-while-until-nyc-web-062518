@@ -1,6 +1,7 @@
 
 def using_until
-  string = phrase = 'Wingardium Leviosa\n'
+  phrase = 'Wingardium Leviosa\n'
+  string = ''
   levitation_force = 6
   until levitation_force == 10
     string += phrase
