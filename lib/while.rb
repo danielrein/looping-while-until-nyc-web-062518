@@ -4,5 +4,4 @@ def using_while(phrase = 'Wingardium Leviosa')
           puts phrase
           levitation_force += 1
         end
-        puts string
 end
