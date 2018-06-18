@@ -6,5 +6,5 @@ def using_until(phrase = 'Wingardium Leviosa\n')
     string = string+phrase
     levitation_force += 1
   end
-  string
+  puts string
 end
