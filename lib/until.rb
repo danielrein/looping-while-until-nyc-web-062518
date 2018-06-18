@@ -4,9 +4,8 @@ def using_until(phrase = 'Wingardium Leviosa\n')
         while levitation_force < 10 do
           string += phrase
           levitation_force += 1
+        end
         # until
         #   levitation_force == 10
         puts string
-
-        end
 end
